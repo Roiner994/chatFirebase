@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1022528274884",
+    "firebase_url": "https://chatfirebase-eae9d.firebaseio.com",
+    "project_id": "chatfirebase-eae9d",
+    "storage_bucket": "chatfirebase-eae9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022528274884:android:c1b52d72f45f426db62491",
+        "android_client_info": {
+          "package_name": "com.roiner.chatfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022528274884-lpgvr94r0657h7krfqnug48rp3v45qtc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt2Y7q7wLxVA-ostEEziXK3YBzjSIAWQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022528274884-lpgvr94r0657h7krfqnug48rp3v45qtc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
