@@ -18,7 +18,7 @@
     "formik": "^2.0.6",
     "jetifier": "^1.6.4",
     "react": "16.8.6",
-    "react-native": "0.60.5",
+    "react-native": "0.62.3",
     "react-native-bootstrap-styles": "^0.0.9",
     "react-native-elements": "^1.2.7",
     "react-native-firebase": "^5.5.6",
